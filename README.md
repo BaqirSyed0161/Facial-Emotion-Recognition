@@ -12,5 +12,4 @@ Datasets used:
 - CK (Cohn–Kanade) dataset  
 
 Notes
-- No deep learning or neural networks are used.
 - This repository is provided as supplementary material
